@@ -127,5 +127,5 @@ This project is for demonstration purposes only. Record of Ragnarok and its char
 
 ## Credits
 
-- Design and Development: [Your Name]
+- Design and Development: [Ivo Bělohlav]
 - Record of Ragnarok: Created by Shinya Umemura, Takumi Fukui, and Ajichika 
